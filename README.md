@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdivaliev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Development --> (Java and Spring)
+- 🌱 I’m java Backend Developer --> (Java and Spring boot)
 - 📫 How to reach me:
 
 Linkedin: https://www.linkedin.com/in/sarvar-abdivaliyev-185855205
